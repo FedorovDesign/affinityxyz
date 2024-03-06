@@ -1,1 +1,1 @@
-Актульный билд находится в папке build
+Actual build files are in the build directory
