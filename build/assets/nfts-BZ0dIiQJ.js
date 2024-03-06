@@ -1,0 +1,1 @@
+import"./main-p2SoUOVw.js";document.addEventListener("DOMContentLoaded",()=>{document.querySelectorAll(".card-video").forEach(async e=>{if(e instanceof HTMLVideoElement)try{e.muted=!0,e.controls=!1,e.loop=!0,e.autoplay=!0,await e.play()}catch(o){console.error("Autoplay was prevented:",o)}})});
